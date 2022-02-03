@@ -27,7 +27,7 @@
 #sidebar-wrapper {
     border-top-right-radius: 2.5rem;
     border-bottom-right-radius: 2.5rem;
-    z-index: -1;
+    z-index: 0;
     position: fixed;
     left: 250px;
     width: 0;
