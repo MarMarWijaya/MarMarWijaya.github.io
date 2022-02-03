@@ -110,3 +110,13 @@ a{
 td{
     height: 3rem;
 }
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color:black !important;
+    border: none !important;
+    background-color: transparent !important;
+    background: transparent !important;
+    border-bottom: .2rem solid var(--red) !important;
+    font-weight: 900;
+}
